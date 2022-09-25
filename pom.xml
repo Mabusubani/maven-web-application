@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://43.205.242.74:9866/sms-devops/repository/walmart-released/</url>
+	      <url>http://172.31.43.144:9866/sms-devops/repository/walmart-released/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://43.205.242.74:9866/sms-devops/repository/walmart-snapshot/</url>
+	      <url>http://172.31.43.144:9866/sms-devops/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
